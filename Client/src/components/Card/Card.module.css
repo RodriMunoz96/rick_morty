@@ -1,0 +1,10 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  height: auto;
+  padding: 1em;
+  border-radius: 40px;
+  border-color: green;
+  background-color: goldenrod;
+}
